@@ -1,0 +1,37 @@
+span {
+    display:block;
+    border: 1px solid black;
+
+}
+
+img {
+    float: left;
+
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container div{
+    width: 200px;
+    height: 200px;
+    background-color: #660066;
+    color: #fff;
+    font-size: 30px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+.grid-container{
+    display: grid;
+    grid-template-columns: ;
+}
+
+.grid-container div {
+    width: 100px;
+    height: 100px;
+    background: cyan;
+    border: 1px solid black;
+}

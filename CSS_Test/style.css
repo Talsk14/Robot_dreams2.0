@@ -1,0 +1,10 @@
+p {
+    color: #e60073;
+    background-color: black;
+    text-transform: lowercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-style: italic;
+    font-variant: inherit;
+    font-weight: bold;
+}

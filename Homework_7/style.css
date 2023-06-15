@@ -1,0 +1,39 @@
+img {
+    display: block;
+}
+
+p, h1, h3{
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+h1 {
+    font-style: oblique;
+}
+
+th {
+    text-transform: uppercase;
+}
+
+a:link {
+    color:#00f;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #005;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+    
+}
+
+ul {
+    list-style-type: square;
+}
