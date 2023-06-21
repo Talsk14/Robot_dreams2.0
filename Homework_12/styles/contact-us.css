@@ -42,11 +42,9 @@ input {
   text-decoration: none;
   font-size: 20px;
   padding-left: 125px;
-  
 }
 
 .submit-container {
   display: flex;
   justify-content: center;
 }
-
