@@ -1,10 +1,9 @@
 .main-theme {
-  --white-font-color: #ffffff;
-  --black-background: #000000;
-  --blue-background: #1a53ff;
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --blue-color: #1a53ff;
   --green-color: green;
-  --white-background: #f1f1f1;
-  --margin-left: 550px;
-  --padding-right: 70px;
-  --padding-left: 125px;
+  --margin: 550px;
+  --padding: 70px;
+  --padding-second: 125px;
 }

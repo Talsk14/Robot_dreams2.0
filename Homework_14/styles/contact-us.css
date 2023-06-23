@@ -1,7 +1,7 @@
 .contact-form label {
   display: block;
   font-family: "Inter", sans-serif;
-  color: var(--black-background);
+  color: var(--black-color);
   text-decoration: none;
   font-size: 20px;
 }
@@ -11,18 +11,18 @@ main {
 }
 
 .contact-form {
-  margin-left: var(--margin-left);
-  background: var(--white-background);
-  border: 5px solid var(--white-background);
+  margin-left: var(--margin);
+  background: var(--white-color);
+  border: 5px solid var(--white-color);
   margin-right: 630px;
   border-radius: 10px;
 }
 
 h1 {
   text-align: center;
-  padding-right: var(--padding-right);
+  padding-right: var(--padding);
   font-family: "Inter", sans-serif;
-  color: var(--black-background);
+  color: var(--black-color);
   text-decoration: none;
   font-size: 40px;
 }
@@ -37,11 +37,11 @@ input {
 .submit {
   text-align: center;
   font-family: "Inter", sans-serif;
-  color: var(--white-font-color);
+  color: var(--white-color);
   background: var(--green-color);
   text-decoration: none;
   font-size: 20px;
-  padding-left: var(--padding-left);
+  padding-left: var(--padding-second);
 }
 
 .submit-container {
