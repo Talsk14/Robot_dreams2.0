@@ -1,0 +1,50 @@
+.contact-form label {
+  display: block;
+  font-family: "Inter", sans-serif;
+  color: var(--black-color);
+  text-decoration: none;
+  font-size: 20px;
+}
+
+main {
+  width: 100%;
+}
+
+.contact-form {
+  margin-left: var(--margin);
+  background: var(--white-color);
+  border: 5px solid var(--white-color);
+  margin-right: 630px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  padding-right: var(--padding);
+  font-family: "Inter", sans-serif;
+  color: var(--black-color);
+  text-decoration: none;
+  font-size: 40px;
+}
+
+input {
+  padding: 10px;
+  padding-right: 150px;
+  margin: 10px 0;
+  border-radius: 10px;
+}
+
+.submit {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  color: var(--white-color);
+  background: var(--green-color);
+  text-decoration: none;
+  font-size: 20px;
+  padding-left: var(--padding-second);
+}
+
+.submit-container {
+  display: flex;
+  justify-content: center;
+}

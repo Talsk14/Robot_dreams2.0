@@ -1,0 +1,9 @@
+.main-theme {
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --blue-color: #1a53ff;
+  --green-color: green;
+  --margin: 550px;
+  --padding: 70px;
+  --padding-second: 125px;
+}

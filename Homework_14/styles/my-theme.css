@@ -1,0 +1,9 @@
+.my-theme {
+  --white-color: #FBFBFB;
+  --black-color: #404040;
+  --blue-color: #0000ff;
+  --green-color: #00cc00;
+  --margin: 550px;
+  --padding: 70px;
+  --padding-second: 125px;
+}
